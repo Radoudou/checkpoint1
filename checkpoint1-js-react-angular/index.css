@@ -1,0 +1,9 @@
+#hiddendiv{
+    text-align: center;
+    display: none;
+}
+
+#boutonjs{
+    background-image: linear-gradient(to right, #686868 0%, #ffffff 51%, #5e5e5e 100%);
+    display: block;
+    margin : auto;
